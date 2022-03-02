@@ -6,7 +6,6 @@ This is an URL shortener application created for Free Code Camp's 5th JavaScript
  - JavaScript
  - Express
  - Node
- - Mongoose
 
 ### Instructions from freeCodeCamp
 
